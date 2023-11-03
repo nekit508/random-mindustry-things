@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "path": "gradle.properties",
+      "type": "necessary-config"
+    }
+  ]
+}
